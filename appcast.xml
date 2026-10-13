@@ -4,12 +4,12 @@
         <title>RunOnDisk</title>
         <item>
             <title>1.0.2</title>
-            <pubDate>Tue, 13 Oct 2026 11:20:45 +0800</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <pubDate>Tue, 13 Oct 2026 11:27:50 +0800</pubDate>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://api.macdh.com/api/version/download/RunOnDisk-1.0.2.dmg" length="3809364" type="application/octet-stream" sparkle:edSignature="PMHpa9WVr3xU+4CkGTQp9OTlvsgHi6zfppeF4ozNPc4XEhp0yc/WjPKyL+cr7s4xYObTRvsZdFUtj6323vj3Aw=="/>
+            <enclosure url="https://api.macdh.com/api/version/download/RunOnDisk-1.0.2.dmg" length="3809374" type="application/octet-stream" sparkle:edSignature="ifq8eM7mZJEEPCj6qagOOT4aK3MugaUDs11fyg3ECxCqhlgOahVY7gEVT1ckc0jUxFqBOD2sxmF7eeCUIxDoBg=="/>
         </item>
     </channel>
 </rss>
