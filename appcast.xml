@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>RunOnDisk</title>
+        <item>
+            <title>1.0.2</title>
+            <pubDate>Tue, 13 Oct 2026 10:39:53 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://api.macdh.com/api/version/download/RunOnDisk-1.0.2.dmg" length="3809378" type="application/octet-stream" sparkle:edSignature="t0X+DiAk3/dlVXEiCt67Mfg/XhWKwC4gjVGzBv/jMoERXBePEeZFgTjGkdzNW8NxR3pjw8SyXpfQVmNzVnbhBw=="/>
+        </item>
+    </channel>
+</rss>
